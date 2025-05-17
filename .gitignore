@@ -1,0 +1,27 @@
+# Dipendenze
+node_modules/
+
+# File di log
+*.log
+
+# Directory di build/output
+dist/
+build/
+
+# File temporanei e di sistema
+*.tmp
+*.temp
+*.swp
+.DS_Store
+
+# Cache di npm
+.npm
+
+# Cartelle di test temporanee
+coverage/
+
+# File di configurazione locali
+.env
+
+# File di sistema di Windows
+Thumbs.db
